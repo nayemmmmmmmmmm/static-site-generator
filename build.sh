@@ -1,0 +1,1 @@
+python3 src/main.py "/github.com/nayemmmmmmmmmm/static-site-generator/"
